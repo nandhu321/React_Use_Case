@@ -1,0 +1,41 @@
+
+.Login .border {
+    
+	
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    
+  }
+  .Login Link{
+    text-align: center;
+    display:block;
+  }
+  .Login .container
+  {
+    margin-top: 6%;
+  }
+  .Login .bc
+  {
+  box-sizing: border-box;
+    border-radius: 10px;
+    background-color:rgb(216, 231, 233);
+  }
+  .cent
+  {
+    text-align: center;
+  }
+  .cen{
+    margin-top: 10px;
+    color: red;
+    text-align: center;
+  }
+  .Login .panel-body
+  {
+    
+    padding-bottom: 30px;
+  }
+  .Login h3{
+    padding-top: 30px;
+    color: black;
+     text-align: center;
+  }
+  

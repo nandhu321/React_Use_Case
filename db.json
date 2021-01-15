@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "member": [
+    {
+      "username": "sai",
+      "password": "srinu9177",
+      "email": "saiteja.bezawada321@gmail.com",
+      "id": 1
+    }
+  ],
+  "librarian": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "tittle": "NUMBER THE STARS",
+      "author": "LOIS LOWRY",
+      "rack": "h1",
+      "genere": "novel",
+      "copies": 7,
+      "issued_to": []
+    },
+    {
+      "id": 2,
+      "tittle": "NO WIND OF BLAME",
+      "author": "GEORGETTE HEYER",
+      "rack": "h2",
+      "genere": "novel",
+      "copies": 6,
+      "issued_to": []
+    },
+    {
+      "id": 3,
+      "tittle": "I KNOW WHY THE CAGED BIRD SINGS",
+      "author": "MAYA ANGELOU",
+      "rack": "h3",
+      "genere": "autobiography",
+      "copies": 2,
+      "issued_to": []
+    },
+    {
+      "id": 4,
+      "tittle": "FAR FROM THE MADDING CROWD",
+      "author": "THOMAS HARDY",
+      "rack": "h4",
+      "genere": "autobiography",
+      "copies": 5,
+      "issued_to": []
+    },
+    {
+      "id": 5,
+      "tittle": "MARVEL",
+      "author": "STAN LEE",
+      "rack": "h5",
+      "genere": "novel",
+      "copies": 10,
+      "issued_to": []
+    },
+    {
+      "id": 6,
+      "tittle": "DC COMICS",
+      "author": "COLUMBIA",
+      "rack": "h5",
+      "genere": "novel",
+      "copies": 11,
+      "issued_to": []
+    },
+    {
+      "id": 7,
+      "tittle": "BHAGATH SIGN",
+      "author": "SINH SING",
+      "rack": "h3",
+      "genere": "autobiography",
+      "copies": 2,
+      "issued_to": []
+    },
+    {
+      "id": 8,
+      "tittle": "GANDHI",
+      "author": "LARDY",
+      "rack": "h4",
+      "genere": "autobiography",
+      "copies": 14,
+      "issued_to": []
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

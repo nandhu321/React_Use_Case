@@ -1,0 +1,26 @@
+.cnt
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.cnt select{
+    
+    margin-right: 20px;
+}
+.cnt input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 15%;
+    border: 0;
+    display: inline-block;
+    margin: 0 0 15px;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  .hide
+  {
+      display: none;
+  }

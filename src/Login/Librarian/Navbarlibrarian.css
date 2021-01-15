@@ -1,0 +1,17 @@
+.Navbaruser nav{
+    text-align: center;
+    
+    overflow: hidden;
+    background-color: #333;
+}
+.Navbaruser h3{
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 14px 16px;
+}
+.Navbaruser button
+{
+    float: right;
+    margin: 14px 16px;
+}

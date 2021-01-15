@@ -1,0 +1,16 @@
+.Books table {
+    border-collapse: collapse;
+    width: 60%;
+  }
+
+.Books  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+.Books  tr{background-color: #f2f2f2}
+  
+.Books  #heading {
+    background-color: #4CAF50;
+    color: white;
+  }
